@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👑 I am Web Developer<br>📚 I'm currently learning Next js<br>🖊️ Love to write code<br>🎤 Like to share my knowledge<br>🎯 Goals: Need to know!</p>
+<p align="left">👑 I am Web Developer<br>📚 I'm currently learning Next js<br>🖊️ Love to write code<br>✉️  Reach me at abr03348@gmail.com.<br>🎯 Goals: Need to know!</p>
 
 ###
 
