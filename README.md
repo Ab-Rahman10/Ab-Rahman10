@@ -1,5 +1,5 @@
 # Hi, I'm Abdur Rahman 👋  
-[<img src='https://github.com/yasin-sorkar47/yasin-sorkar47/blob/main/image/banner.jpg' alt='Abdur Rahman'>](https://github.com/yasin-sorkar47/)  
+[<img src='[https://github.com/yasin-sorkar47/yasin-sorkar47/blob/main/image/banner.jpg](https://i.ibb.co.com/zr9SfHP/1729056367064.jpg)' alt='Abdur Rahman'>](https://github.com/yasin-sorkar47/)  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>  
 <br>  
 <br>  
@@ -27,17 +27,17 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 👨‍💻 Skills & Experiance:  
 ✅ JavaScript  
-<br>  
+ 
 ✅ React  
-<br>  
+ 
 ✅ Next.js  
-<br>  
+ 
 ✅ Tailwindcss  
-<br>  
+ 
 ✅ DaisyUI  
-<br>  
+  
 ✅ HTML5 / CSS3 / SASS / Bootstrap  
-<br>  
+ 
 ✅ Photoshop / Illustrator/ Figma /Pixso  
 <br>  
 
