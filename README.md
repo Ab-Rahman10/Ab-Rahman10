@@ -47,7 +47,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 <img src="https://github-profile-trophy.vercel.app/?username=yasin-sorkar47&theme=juicyfresh&no-bg=true" />  
 
 ####  Github Link  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-sorkar47&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ab-Rahman10&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" /> </p>  
 
 ## 📫 You can find me @  
 <!-- YOU-CAN-FIND-ME:START -->  
