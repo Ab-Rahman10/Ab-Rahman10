@@ -1,51 +1,78 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/zr9SfHP/1729056367064.jpg"  />
-</div>
+# Hi, I'm Abdur Rahman 👋  
+[<img src='https://github.com/yasin-sorkar47/yasin-sorkar47/blob/main/image/banner.jpg' alt='Abdur Rahman'>](https://github.com/yasin-sorkar47/)  
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>  
+<br>  
+<br>  
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
+<br>  
+-👑 I am Web Developer  
+<br>  
+- 👀 I’m interested in learning coding, especially in web development.  
+<br>  
+- 🌱 I’m currently learning web development.  
+<br>  
+- 💞️ I’m looking to collaborate on open-source projects,  
+<br>  
+- 👉 and hackathons, or any coding-related challenges.  
+<br>  
+<br>  
+<br>  
+<br>  
+<p align="left">  
+<a href="https://x.com/yasinsorkar47" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsorkar47?logo=twitter&style=for-the-badge" alt="shovoalways" /></a>  
+</p>  
 
-###
+## 🚀 About Me  
+I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js.  
 
-<h1 align="left">Hey there, I am Abdur Rahman</h1>
+## 👨‍💻 Skills & Experiance:  
+✅ JavaScript  
+<br>  
+✅ React  
+<br>  
+✅ Next.js  
+<br>  
+✅ Tailwindcss  
+<br>  
+✅ DaisyUI  
+<br>  
+✅ HTML5 / CSS3 / SASS / Bootstrap  
+<br>  
+✅ Photoshop / Illustrator/ Figma /Pixso  
+<br>  
 
-###
+## 📈 My GitHub Stats  
 
-<h2 align="left">About me</h2>
+### GitHub Stars  
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=yasin-sorkar47&show_icons=true&theme=radical)  
 
-###
+### Top Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-sorkar47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-<p align="left">👋 Hi, I'm Abdur Rahman, a Front-End Developer passionate about building responsive and user-friendly websites using HTML, CSS, JavaScript, and React. Always learning and improving my skills. Let's collaborate!</p>
+### GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=yasin-sorkar47&theme=juicyfresh&no-bg=true" />  
 
-###
+####  Github Link  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-sorkar47&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" /> </p>  
 
-<p align="left">👑 I am Web Developer<br>📚 I'm currently learning Next js<br>🖊️ Love to write code<br>🎯 Goals: Need to know!</p>
+## 📫 You can find me @  
+<!-- YOU-CAN-FIND-ME:START -->  
+- [X(Twitter)](https://x.com/yasinsorkar47) 🐤  
+- [LinkedIn](https://www.linkedin.com/in/mdyacin-sorkar-24444b298/) 💼  
+- [Facebook](https://www.facebook.com/yasinSarkar47) 😏  
+<!-- YOU-CAN-FIND-ME:END -->  
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left">  
+<a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
+</p>  
