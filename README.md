@@ -18,9 +18,6 @@
 <br>  
 <br>  
 <br>  
-<p align="left">  
-<a href="https://x.com/yasinsorkar47" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsorkar47?logo=twitter&style=for-the-badge" alt="shovoalways" /></a>  
-</p>  
 
 ## 🚀 About Me  
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js.  
@@ -38,13 +35,13 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 📈 My GitHub Stats  
 
 ### GitHub Stars  
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=yasin-sorkar47&show_icons=true&theme=radical)  
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=Ab-Rahman10&show_icons=true&theme=radical)  
 
 ### Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-sorkar47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab-Rahman10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=yasin-sorkar47&theme=juicyfresh&no-bg=true" />  
+<img src="https://github-profile-trophy.vercel.app/?username=Ab-Rahman10&theme=juicyfresh&no-bg=true" />  
 
 ####  Github Link  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ab-Rahman10&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" /> </p>  
@@ -53,7 +50,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 <!-- YOU-CAN-FIND-ME:START -->  
 - [X(Twitter)](https://x.com/yasinsorkar47) 🐤  
 - [LinkedIn](https://www.linkedin.com/in/mdyacin-sorkar-24444b298/) 💼  
-- [Facebook](https://www.facebook.com/yasinSarkar47) 😏  
+- [Facebook](https://www.facebook.com/ab.rahman.253080/) 😏  
 <!-- YOU-CAN-FIND-ME:END -->  
 
 <h3 align="left">Languages and Tools:</h3>  
