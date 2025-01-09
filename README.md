@@ -48,8 +48,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 📫 You can find me @  
 <!-- YOU-CAN-FIND-ME:START -->  
-- [X(Twitter)](https://x.com/yasinsorkar47) 🐤  
-- [LinkedIn](https://www.linkedin.com/in/mdyacin-sorkar-24444b298/) 💼  
+- [Gmail](abr03348@gmail.com) 🐤  
+- [LinkedIn](https://www.linkedin.com/in/abdur-rahman-142524345/) 💼  
 - [Facebook](https://www.facebook.com/ab.rahman.253080/) 😏  
 <!-- YOU-CAN-FIND-ME:END -->  
 
