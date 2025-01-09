@@ -47,8 +47,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ab-Rahman10&label=Profile%20views&color=0e75b6&style=flat" alt="Abdur Rahman" /> </p>  
 
 ## 📫 You can find me @  
-<!-- YOU-CAN-FIND-ME:START -->  
-- [Gmail](abr03348@gmail.com) 🐤  
+<!-- YOU-CAN-FIND-ME:START -->   
 - [LinkedIn](https://www.linkedin.com/in/abdur-rahman-142524345/) 💼  
 - [Facebook](https://www.facebook.com/ab.rahman.253080/) 😏  
 <!-- YOU-CAN-FIND-ME:END -->  
