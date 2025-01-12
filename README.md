@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>  
 <br>  
 <br>  
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/Htwzd9s.gif">  
+<img align="right" alt="coding" width="400" src="https://imgur.com/6GaUqfC.gif">  
 <br>  
 -👑 I am Web Developer  
 <br>  
