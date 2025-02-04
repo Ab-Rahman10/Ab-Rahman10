@@ -35,7 +35,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 📈 My GitHub Stats  
 
 ### GitHub Stars  
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=Ab-Rahman10&show_icons=true&theme=radical)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=%20Ab-Rahman10&theme=gruvbox-duo)](https://git.io/streak-stats) 
 
 ### Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab-Rahman10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
