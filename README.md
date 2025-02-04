@@ -1,11 +1,11 @@
-# Hi, I'm Abdur Rahman 👋  
+# Hello there, I'm Abdur Rahman 👋  
 [<img src='https://i.ibb.co.com/zr9SfHP/1729056367064.jpg' alt='Abdur Rahman'>](https://github.com/yasin-sorkar47/)  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>  
 <br>  
 <br>  
 <img align="right" alt="coding" width="400" src="https://imgur.com/6GaUqfC.gif">  
 <br>  
--👑 I am Web Developer  
+- 👑 I am Web Developer  
 <br>  
 - 👀 I’m interested in learning coding, especially in web development.  
 <br>  
@@ -13,7 +13,7 @@
 <br>  
 - 💞️ I’m looking to collaborate on open-source projects,  
 <br>  
-- 👉 and hackathons, or any coding-related challenges.  
+- 👉 Fun fact: I love traveling.  
 <br>  
 <br>  
 <br>  
@@ -28,8 +28,8 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ Next.js  
 ✅ Tailwindcss  
 ✅ DaisyUI  
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ Photoshop / Illustrator/ Figma /Pixso  
+✅ HTML5 / CSS  
+✅ Figma /Pixso  
 <br>  
 
 ## 📈 My GitHub Stats  
