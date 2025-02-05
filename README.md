@@ -9,7 +9,7 @@
 <br>  
 - 👀 I’m interested in learning coding, especially in web development.  
 <br>  
-- 🌱 I’m currently learning web development.  
+- 🌱 I’m currently learning Next.js.  
 <br>  
 - 💞️ I’m looking to collaborate on open-source projects,  
 <br>  
@@ -20,7 +20,7 @@
 <br>  
 
 ## 🚀 About Me  
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js.  
+I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. 
 
 ## 👨‍💻 Skills & Experiance:  
 ✅ JavaScript  
