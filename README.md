@@ -48,8 +48,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 📫 You can find me @  
 <!-- YOU-CAN-FIND-ME:START -->   
-- [LinkedIn](https://www.linkedin.com/in/abdur-rahman-142524345/) 💼  
-- [Facebook](https://www.facebook.com/ab.rahman.253080/) 😏  
+- [LinkedIn](https://www.linkedin.com/in/abdur-rahman-142524345/)  
+- [Facebook](https://www.facebook.com/ab.rahman.253080/)
+- [WhatsApp](01405616529)  
 <!-- YOU-CAN-FIND-ME:END -->  
 
 <h3 align="left">Languages and Tools:</h3>  
